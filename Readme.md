@@ -1,7 +1,10 @@
 
 Title: Neuronal basis of brain hypersynchronization in absence seizures: a computational study
+
 Author: Tomas Berjaga Buisan
+
 Supervisors: PhD(c). Pablo Casaní Galdón (Department CEXS) and Prof. Dr. Jordi Garcia-Ojalvo (Department CEXS)
+
 Affiliation: Dynamical Systems Biology lab, DCEXS, Universitat Pompeu Fabra.
 
 
